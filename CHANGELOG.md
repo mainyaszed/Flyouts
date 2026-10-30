@@ -1,5 +1,12 @@
 ﻿# Changelog
 
+## 0.5.1 - 2026-10-30
+
+- Living cover: the album art slowly drifts and zooms while a track plays, and holds still when paused
+- Progress bar in the player with elapsed and total time; click it to jump
+- Flatter glass: the faint diagonal sheen across the flyouts is gone
+- Windows' Media Player shows as "Media Player"
+
 ## 0.5.0 - 2026-10-30
 
 - Mic mute: press Pause (or Ctrl+Alt+M) to mute your microphone in every app; a "Muted" badge stays on screen, click it to unmute
