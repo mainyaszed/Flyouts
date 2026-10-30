@@ -1,5 +1,16 @@
 ﻿# Changelog
 
+## 0.5.4 - 2026-10-30
+
+- Video previews: for YouTube in your browser, the player shows the thumbnail, then fades into real frames from the video, flipping like a GIF (Settings > Video previews)
+- The glass is rebuilt each time a flyout opens, so it can't turn see-through after a graphics driver reset
+- Softer grey selected buttons with smoother edges
+- Removed the go-back link from Settings
+
+## 0.5.3 - 2026-10-30
+
+- No more hover tooltips (the headset battery, the mute badge, display names, the go-back link)
+
 ## 0.5.2 - 2026-10-30
 
 - Record your own mic mute shortcut in Settings (any key, with Ctrl/Alt/Shift/Win); Settings warns if another app already uses it

@@ -22,9 +22,10 @@
 ## What it does
 
 - **Volume flyout** for the volume keys, with a live level and a soft tick sound (optional).
-- **Media flyout** with the cover, title and controls when you play, pause or skip, and a "now playing" card when the track changes.
+- **Media flyout** with the cover, title, controls and a progress bar you can click, and a "now playing" card when the track changes.
+- **Video previews**: for YouTube in your browser, the cover fades into real frames from the video, flipping like a GIF.
 - **Volume mixer** for every app on every output device. Right-click an app to send it to a different output.
-- **Mic mute**: press **Pause** (or Ctrl+Alt+M) to mute your microphone in every app at once. A small "Muted" badge stays on screen until you unmute; click it to unmute.
+- **Mic mute**: press **Pause** (or a shortcut you record in Settings) to mute your microphone in every app at once. A small "Muted" badge stays on screen until you unmute; click it to unmute.
 - **Bluetooth headset battery** next to the volume, for headsets that report it.
 - **Caps, Num and Scroll Lock** flyouts, and **brightness** for laptops and DDC/CI monitors.
 - **Stays out of games**: nothing pops up over a fullscreen game, and it never takes focus.
@@ -61,7 +62,7 @@ All of them can be changed or turned off in Settings.
 
 ## Privacy
 
-Flyouts collects nothing. It doesn't use analytics or telemetry and has no account. The only time it goes online is to ask GitHub whether there's a new version. If it ever crashes, it offers to open a pre-filled GitHub issue; nothing is sent unless you submit it yourself.
+Flyouts collects nothing. It doesn't use analytics or telemetry and has no account. It goes online to ask GitHub whether there's a new version, and, while Video previews is on, to look up what's playing in your browser on YouTube and download its preview frames (turn it off in Settings to stop that). If it ever crashes, it offers to open a pre-filled GitHub issue; nothing is sent unless you submit it yourself.
 
 ## Uninstall
 
