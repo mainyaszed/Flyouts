@@ -1,5 +1,12 @@
 ﻿# Changelog
 
+## 0.5.2 - 2026-10-30
+
+- Record your own mic mute shortcut in Settings (any key, with Ctrl/Alt/Shift/Win); Settings warns if another app already uses it
+- YouTube covers in Chrome show again (small video thumbnails were mistaken for site logos)
+- The living cover moves visibly while a track plays
+- No more diagonal sheen on the selected buttons and switch knobs
+
 ## 0.5.1 - 2026-10-30
 
 - Living cover: the album art slowly drifts and zooms while a track plays, and holds still when paused
